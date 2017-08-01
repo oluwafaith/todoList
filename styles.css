@@ -1,0 +1,39 @@
+body, html{
+
+	background-color:;
+	font-family: sans-serif;
+	font-size:14px;
+	line-height:1.8em;
+}
+#container {
+	width:400px;
+	margin:0 auto;
+	background-color: #fff;	
+	height:500px;
+	padding:10px;
+	
+}
+
+section{
+
+	display:block;
+	border:solid 1px #eee;
+	background-color:;
+	padding:20px;
+	margin-bottom: 10px
+
+}
+
+#text_input{
+	width:321px;
+}
+
+
+#footer{
+
+	height:150px;
+	font-size: 12px;
+	margin-top:50px;
+	border-top: solid #dedede 1px ;
+
+}
